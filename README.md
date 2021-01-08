@@ -1,5 +1,5 @@
 # mechanical-vibrations
-Using Mathematicanotebooks to simulate various configurations of an simple mechanical systems.
+Using Mathematica notebooks to simulate various configurations of an simple mechanical systems.
 
 ## Objective
 Generate equations of motion and perform analysis of various mechanical systems. These systems are comprised of lumped or distributed masses, torsional, linear, and proportional damping, and linear and torsional springs.
